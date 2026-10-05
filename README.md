@@ -1,22 +1,132 @@
-<h1 align="center">Hi 👋, I'm Ahsan Habib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Ahsan Habib</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanrafi501&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanrafi501" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanrafi501" alt="ahsanrafi501" /></a> </p>
-
-- 📫 How to reach me **habib23105341021@diu.edu.bd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dewan-ahsan-habib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dewan-ahsan-habib/" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer</b> · Full-Stack Developer · Backend Engineer · AI/LLM Enthusiast
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dewan-ahsan-habib/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ahsanhabib81102@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ahsanrafi501?tab=repositories">Repositories</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanrafi501&show_icons=true&locale=en&layout=compact" alt="ahsanrafi501" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanrafi501&show_icons=true&locale=en" alt="ahsanrafi501" /></p>
+I'm a Software Engineering graduate/student from Bangladesh focused on building **production-oriented web applications and backend systems**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanrafi501&" alt="ahsanrafi501" /></p>
+I work primarily with **TypeScript, Node.js, PostgreSQL, Prisma, React, and Next.js**, with a growing focus on **AI/LLM applications, RAG systems, and agentic workflows**.
+
+I enjoy taking a product from **API design and data modeling to authentication, business logic, frontend, deployment, and everything in between.**
+
+## What I Work On
+
+* **Backend Engineering** — REST APIs, database design, authentication, authorization, payments, caching, and business logic
+* **Full-Stack Development** — Type-safe applications with React, Next.js, TypeScript, and modern data-fetching patterns
+* **AI / LLM Engineering** — RAG pipelines, vector search, LLM integrations, and multi-step AI agents
+* **Cloud & DevOps** — Dockerized applications, AWS deployments, and production-oriented infrastructure
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="160"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,py,java" alt="TypeScript, JavaScript, Python, Java" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Node.js, Express.js, Prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="PostgreSQL, MongoDB, Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>
+      LangChain · LangGraph · RAG · Vector Databases · LLM APIs · AI Agents
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github" alt="AWS, Docker, Firebase, Git, GitHub" />
+    </td>
+  </tr>
+</table>
+
+## Engineering Interests
+
+```text
+Backend Architecture
+API Design & Distributed Systems
+Database Design & Performance
+Authentication & Authorization
+Cloud & DevOps
+AI / LLM Applications
+RAG & Agentic Systems
+System Design
+```
+
+## Featured Projects
+
+> Selected projects will be added here.
+
+<!--
+Example:
+
+### Project Name
+Short description of the problem it solves and what you built.
+
+**Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Prisma
+
+[Source Code](...) · [Live Demo](...)
+-->
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahsanrafi501&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Ahsan's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanrafi501&layout=compact&hide_border=true"
+    alt="Ahsan's Top Languages"
+    height="170"
+  />
+</p>
+
+## Currently Learning
+
+* Advanced Backend & System Design
+* Cloud Architecture & AWS
+* AI Agents & LLM Engineering
+* Data Structures & Algorithms
+
+## Let's Connect
+
+I'm interested in **software engineering opportunities, challenging engineering problems, and building useful products.**
+
+<p>
+  <a href="mailto:ahsanhabib81102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahsanhabib81102%40gmail.com-informational?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/dewan-ahsan-habib/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dewan%20Ahsan%20Habib-informational?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
